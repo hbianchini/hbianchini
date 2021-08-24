@@ -1,6 +1,6 @@
 ### <> Hi there, Welcome to my profile! 
 
-- I’m currently a Backend Developer Intern on <a href="https://www.bancointer.com.br/">Inter</a>, learning and working with several technologies like: Java....
+- I’m currently a <b>Backend Developer Intern</b> on <a href="https://www.bancointer.com.br/">Inter</a>, learning and working with several technologies like: Java....
 
  <div>
   <a href="https://github.com/hbianchini">
