@@ -1,20 +1,16 @@
-### Welcome to my profile! 
+### <> Hi there, Welcome to my profile! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I’m currently a Backend Developer Intern on <a href="https://www.bancointer.com.br/">Inter</a>, learning and working with several technologies like: Java....
 
  <div>
   <a href="https://github.com/hbianchini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbianchini&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbianchini&layout=compact&langs_count=7&theme=nord"/>-->
 </div>
-<div style="display: inline_block"><br>
+ 
+### <> Languages and Tools:
+ 
+<div style="display: inline_block">
   <img align="center" alt="HB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,8 +19,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 </div>
-  
-  ##
+
+### <> Connect with me:
  
 <div> 
   <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
