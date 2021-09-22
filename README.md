@@ -3,7 +3,7 @@
 - I’m currently a <b>Backend Developer Intern</b> on <a href="https://www.bancointer.com.br/">Inter</a>, learning and working with several technologies like: Java....
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbianchini&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbianchini&layout=compact&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbianchini&layout=compact&langs_count=3&theme=nord"/>
 </div>
  
 ### <> Programming Languages Experience:
