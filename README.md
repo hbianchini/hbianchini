@@ -1,6 +1,6 @@
 ### <> Hi there, Welcome to my profile! 
 
-<p align=justify>IT professional with high analytical skills and 3+ years of problem solving experience. This year, I completed my third higher education course in the area of technology. Currently, I'm student of courses and training focused on Data Science, Data Engineering and Business Intelligence, where I'm having contact with several tools and procedures used on day to day of a professional employer. My main goal is to become CDO, and I'm working hard to achieve it. So far, I've been developing projects and skills to get my first job in this area.</p>
+<p align=justify>IT professional with high analytical skills and 3+ years of problem solving experience. This year, I completed my third higher education course in the area of technology. Currently, I'm student of courses and training focused on Data Science, Data Engineering and Business Intelligence, where I'm having contact with several tools and procedures used on day to day of a professional employer. So far, I've been developing projects and skills to get my first job in this area.</p>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbianchini&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
