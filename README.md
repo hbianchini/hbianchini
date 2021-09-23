@@ -21,6 +21,8 @@
 
 <div style="display: inline_block">
   <img align="center" alt="HB-Jup" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
+  <img align="center" alt="HB-Jup" height="40" width="80" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg">
+  <img align="center" alt="HB-Jup" height="40" width="100" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg">
 </div>
 
 ### <> Connect with me:
