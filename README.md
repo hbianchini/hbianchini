@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbianchini&layout=compact&langs_count=3&theme=nord"/>
 </div>
  
-### <> Programming Languages Experience:
+### <> Languages:
  
 <div style="display: inline_block">
   <img align="center" alt="HB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -15,6 +15,12 @@
   <img align="center" alt="HB-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="HB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="HB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+### <> Tools:
+
+<div style="display: inline_block">
+  <img align="center" alt="HB-Jup" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
 </div>
 
 ### <> Connect with me:
