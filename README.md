@@ -29,7 +29,7 @@
   <img align="center" alt="HB-Jup" height="40" width="60" src="http://www.cloudi.com.br/scoop2017/wp-content/uploads/2017/10/mysql.png">
   <img align="center" alt="HB-Jup" height="50" width="83" src="http://www.esiatech.com.br/softwares/wp-content/uploads/2015/04/postgresql_logo.jpg">
   <img align="center" alt="HB-Jup" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg">
-  
+  <img align="center" alt="HB-Jup" height="50" width="95" src="https://storage.googleapis.com/wp-noticias/2021/02/3b198fa1-databricks_logo.png">
 </div>
 
 ### <> Connect with me:
