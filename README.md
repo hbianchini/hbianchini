@@ -1,6 +1,13 @@
 ### <> Hi there, Welcome to my profile! 
 
-<p align=justify>IT professional with high analytical skills and 3+ years of problem solving experience. This year, I completed my third higher education course in the area of technology. Currently I've been studying about Data Science, Data Engineering and Business Intelligence, where I'm having contact with several tools and procedures used on day to day of a professional. So far, I've been developing projects and skills to get a job in this area.</p>
+<p align=justify> 
+  ▪ IT professional with high analytical skills and 3+ years of problem solving experience and customer service.<br>
+  ▪ This year, I completed my third higher education course in the technology area.<br>
+  ▪ Currently, I've been working with microservices development, bug fixes, refactoring and testing in a financial system.<br>
+  ▪ Besides, I'm studying about data processing, modeling and analysis using common tools in Data Driven strategy.<br>
+
+  So far, I've been developing projects and skills to get a job in "Data and Analytics" area.
+</p>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbianchini&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
