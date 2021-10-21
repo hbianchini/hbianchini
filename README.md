@@ -1,4 +1,4 @@
-### <> Hi there, Welcome to my profile! 
+### > Hi there, welcome to my profile! 
 
 <p align=justify> 
   ▪ IT professional with high analytical skills and 3+ years of problem solving experience and customer service.<br>
@@ -6,7 +6,7 @@
   ▪ Currently, I've been working with microservices development, bug fixes, refactoring and testing in a financial system.<br>
   ▪ Besides, I'm studying about data processing, modeling and analysis using common tools in Data Driven strategy.<br>
 
-  So far, I've been developing projects and skills to get a job in "Data and Analytics" area.
+  So far, I've been developing projects and skills to get a job as Data Engineer/Scientist.
 </p>
 
 <div>
@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbianchini&layout=compact&langs_count=3&theme=nord"/>
 </div>
  
-### <> Languages:
+### > Programming languages:
  
 <div style="display: inline_block">
   <img align="center" alt="HB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -24,7 +24,7 @@
   <img align="center" alt="HB-CSS" height="30" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-### <> Tools:
+### > Tools:
 
 <div style="display: inline_block">
   <img align="center" alt="HB-Jup" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
@@ -39,9 +39,13 @@
   <img align="center" alt="HB-Jup" height="50" width="95" src="https://storage.googleapis.com/wp-noticias/2021/02/3b198fa1-databricks_logo.png">
 </div>
 
-### <> Connect with me:
+### > Connect with me:
  
 <div> 
   <a href = "mailto:humberto.bianchini@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/32_Pixel_Social_Media_Icons_by_leslienayibe/gmail.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hbianchini" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/32_Pixel_Social_Media_Icons_by_leslienayibe/linkedin.png" target="_blank"></a> 
 </div>
+
+### > Location:
+
+  Brazil
