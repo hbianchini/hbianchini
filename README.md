@@ -1,12 +1,9 @@
 ### > Hi there, welcome to my profile! 
 
 <p align=justify> 
-  ▪ IT professional with high analytical skills and 3+ years of problem solving experience and customer service.<br>
+  ▪ IT professional with high analytical skills and 3+ years of problem solving and customer service experience.<br>
   ▪ This year, I completed my third higher education course in the technology area.<br>
-  <!--▪ Currently, I've been working with microservices development, bug fixes, refactoring and testing in a financial system.<br>-->
-  ▪ Besides, I'm studying about data processing, modeling and analysis using common tools in Data Driven strategy.<br>
-
-  So far, I've been developing projects and skills in "Data & Analytics" area.
+  ▪ Besides, I've been studying, developing skills and projects about data processing, modeling and analysis using common tools in Data Driven strategy.<br>
 </p>
 
 <div>
