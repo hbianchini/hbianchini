@@ -7,7 +7,8 @@
   ▪ Besides, I've been studying and developing projects about data processing, modeling and analysis using common tools in Data Driven strategy.<br>
 </p>
 
-<div>
+<div align="center">
+  <a href="https://github.com/hbianchini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbianchini&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbianchini&layout=compact&langs_count=3&theme=nord"/>
 </div>
@@ -18,8 +19,6 @@
   <img align="center" alt="HB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HB-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="HB-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="HB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="HB-CSS" height="30" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ### > Tools:
@@ -46,4 +45,4 @@
 
 ### > Location:
 
-  Brazil
+  Brazil, SA
