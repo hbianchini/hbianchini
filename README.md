@@ -1,10 +1,11 @@
 ### > Hi there, welcome to my profile! 
 
 <p align=justify>
-  I'm open in receiving offers from other countries. This is my main goal, a job opportunity where I can improve my skills and provide strategic insights through interaction with people from different cultures. :)<br><br>
-  ▪ IT professional with high analytical skills and 3+ years of problem solving and customer service experience.<br>
-  ▪ This year, I completed my third higher education course in the technology area.<br>
-  ▪ Besides, I've been studying and developing projects about data processing, modeling and analysis using common tools in Data Driven strategy.<br>
+  I'm open in receiving offers from other countries. This is my main goal, a job opportunity where I can improve my skills, learn with the team and provide strategic insights through the collaborative environment with people from different cultures. :)<br><br>
+
+▪ IT professional with high analytical skills and 3+ years of problem solving and customer service experience.<br>
+▪ Currently, I'm working with data engineering: loading, reprocessing and data flow, according to the demands of the company business sector.<br>
+▪ Besides, I've been studying and developing projects about data processing, modeling and analysis using common tools in 'Data Driven' strategy.<br>
 </p>
 
 <div align="center">
